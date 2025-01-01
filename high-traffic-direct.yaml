@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,download.microsoft.com
+  - DOMAIN-SUFFIX,swcdn.apple.com
+  - DOMAIN-SUFFIX,update.microsoft.com
+  - DOMAIN-SUFFIX,updates.microsoft.com
+  - DOMAIN-SUFFIX,xboxlive.com
