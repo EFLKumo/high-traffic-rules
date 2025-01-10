@@ -4,3 +4,8 @@ payload:
   - DOMAIN-SUFFIX,update.microsoft.com
   - DOMAIN-SUFFIX,updates.microsoft.com
   - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,adobedownload.com
+  - DOMAIN-SUFFIX,swupmf.adobe.com
+  - DOMAIN-SUFFIX,swupdl.adobe.com
+  - DOMAIN-SUFFIX,ccmdl.adobe.com
+  - DOMAIN-SUFFIX,tt.omtrdc.net
