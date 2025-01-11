@@ -18,3 +18,6 @@ payload:
   - DOMAIN-SUFFIX,swupdl.adobe.com
   - DOMAIN-SUFFIX,ccmdl.adobe.com
   - DOMAIN-SUFFIX,tt.omtrdc.net
+
+  # Aliyun
+  - DOMAIN-SUFFIX,aliyuncs.com
