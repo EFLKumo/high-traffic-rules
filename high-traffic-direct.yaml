@@ -1,9 +1,18 @@
 payload:
+  # Microsoft
+  # --- Windows
   - DOMAIN-SUFFIX,download.microsoft.com
-  - DOMAIN-SUFFIX,swcdn.apple.com
   - DOMAIN-SUFFIX,update.microsoft.com
   - DOMAIN-SUFFIX,updates.microsoft.com
+  # --- OneDrive
+  - DOMAIN-SUFFIX,sharepoint.com
+  # --- Xbox
   - DOMAIN-SUFFIX,xboxlive.com
+
+  # Apple
+  - DOMAIN-SUFFIX,swcdn.apple.com
+
+  # Adobe
   - DOMAIN-SUFFIX,adobedownload.com
   - DOMAIN-SUFFIX,swupmf.adobe.com
   - DOMAIN-SUFFIX,swupdl.adobe.com
