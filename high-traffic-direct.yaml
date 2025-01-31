@@ -30,3 +30,5 @@ payload:
 
   # Aliyun
   - DOMAIN-SUFFIX,aliyuncs.com
+
+  - DOMAIN-SUFFIX,ykk.emby.moe
