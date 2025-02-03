@@ -1,4 +1,7 @@
 payload:
+  # Microsoft
+  - DOMAIN-SUFFIX,onedrive.live.com
+
   # X (Twitter)
   - DOMAIN-SUFFIX,pbs.twimg.com
   - DOMAIN-SUFFIX,video.twimg.com
