@@ -73,3 +73,6 @@ payload:
   - DOMAIN-SUFFIX,cdn.ubi.com
   - DOMAIN-SUFFIX,ea.com
   - DOMAIN-SUFFIX,origin.com
+
+  # HuggingFace
+  - DOMAIN-SUFFIX,hf.co
