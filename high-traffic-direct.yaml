@@ -19,6 +19,7 @@ payload:
 
   # Apple
   - DOMAIN-SUFFIX,swcdn.apple.com
+  - DOMAIN-SUFFIX,itunes.apple.com
 
   # Adobe
   - DOMAIN-SUFFIX,adobedownload.com

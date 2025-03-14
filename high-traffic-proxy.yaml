@@ -39,9 +39,6 @@ payload:
   # Pandora
   - DOMAIN-SUFFIX,pandora.com
 
-  # iTunes
-  - DOMAIN-SUFFIX,itunes.apple.com
-
   # Dropbox
   - DOMAIN-SUFFIX,dropbox.com
 
@@ -58,9 +55,6 @@ payload:
   - DOMAIN-SUFFIX,objects.githubusercontent.com
   - DOMAIN-SUFFIX,codeload.github.com
   - DOMAIN-SUFFIX,github-releases.githubusercontent.com
-
-  # Apple CDN
-  - DOMAIN-SUFFIX,cdn.apple.com
 
   # AWS
   - DOMAIN-SUFFIX,amazonaws.com
