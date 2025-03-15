@@ -1,6 +1,7 @@
 payload:
   # Google
   - GEOSITE,google-play
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
   # Microsoft
   - DOMAIN-SUFFIX,onedrive.live.com
